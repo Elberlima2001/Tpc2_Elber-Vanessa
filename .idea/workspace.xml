@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="584d5c75-661c-474f-89ba-5dd0ef61c995" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tpc2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P2_exe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P2_exe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P2_exe3e4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P2_exe8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P2_exe9A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P2_exe9B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P2_exe9C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe11A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe11B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe11C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe11D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe12A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe12B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe12C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe12D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe12E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe1A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe1B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe1C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe2A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe2B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe2C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe2D.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2N9lYOWAbYcMFLKlN6hR2WQVU7J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="584d5c75-661c-474f-89ba-5dd0ef61c995" name="Changes" comment="" />
+      <created>1679084225827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679084225827</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
